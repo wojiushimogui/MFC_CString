@@ -1,0 +1,33 @@
+﻿Build started 2015/8/6 11:01:46.
+     1>Project "D:\VS_projects\wu1\wu1\wu1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\wu1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\wu1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt wu1Dlg.cpp
+         wu1Dlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS_projects\wu1\Debug\wu1.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\wu1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\VS_projects\wu1\Debug\wu1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS_projects\wu1\Debug\wu1.lib" /MACHINE:X86 Debug\wu1.res
+         Debug\wu1.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\wu1.obj
+         Debug\wu1Dlg.obj
+         Debug\wu2Dlg.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\wu1.exe.embed.manifest" /manifest Debug\wu1.exe.intermediate.manifest "D:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         wu1.vcxproj -> D:\VS_projects\wu1\Debug\wu1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\wu1.unsuccessfulbuild".
+         Touching "Debug\wu1.lastbuildstate".
+     1>Done Building Project "D:\VS_projects\wu1\wu1\wu1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03
